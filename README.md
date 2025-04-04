@@ -45,8 +45,22 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 
 
 
-  ****
+**Unit-6: Hashing**
 - [Hashing](#hashing)
+- [Counting frequencies of array elements](#counting_frequencies)
+- [Find the highest/lowest frequency elements](#highest/lowest)
+
+
+**Unit-7: Sorting**
+- [Selection Sort](#selection_sort)
+- [Insertion Sort](#insertion_sort)
+- [Bubble Sort](#bubble_sort)
+- [Merge Sort](#merge_sort)
+- [Recursive Bubble Sort](#recursive_bubble_sort)
+- [Recursive Insertion Sort](#recursive_insertion_sort)
+- [Quick Sort](#quick_sort)
+
+****
 - [Arrays](#arrays)
 - [Sorting Algorithms](#sorting-algorithms)
 - [Linked Lists](#linked-lists)
