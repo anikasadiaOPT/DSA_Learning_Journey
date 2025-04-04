@@ -13,10 +13,16 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 - [While Loop](#while_loop)
 - [Function(Pass by Reference/Value)](#function)
 - [Time Complexity](#basics)
+
+  
 **Unit-2:Logical Thinking**
 - [Pattern](#pattern)
+
+
 **Unit-3:STL**
 - [C++ STL](#C++_stl)
+
+
 **Unit-4:Basic Maths**
 - [Count Digits](#count_digits)
 - [Reverse a Numbers](#reverse_number)
