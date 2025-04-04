@@ -25,9 +25,27 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 
 **Unit-4:Basic Maths**
 - [Count Digits](#count_digits)
-- [Reverse a Numbers](#reverse_number)
+- [Reverse a Number](#reverse_number)
 - [Check Palindrome](#check_palindrome)
-- 
+- [GCD or HCF](#gcd_or_hcf)
+- [Armstrong Numbers](#armstrong_numbers)
+- [Print all divisors](#print_all_divisors)
+- [Check for Prime](#check_for_prime)
+
+
+**Unit-5:Basic Recursion**
+- [Print something N times](#printing_N_times)
+- [Print name N times](#printing_name_N_times)
+- [Print 1 to N](#print_1_o_N)
+- [Sum of first N numbers](#sum_of_first_N_numbers)
+- [Factorial of N numbers](#factorial)
+- [Reverse an array](#reverse_an_array)
+- [String is Palindrome or not](#if_string_is_palindrome)
+- [Fibonacci Numbers](#fibonacci_num)
+
+
+
+  
 - [Hashing](#hashing)
 - [Arrays](#arrays)
 - [Sorting Algorithms](#sorting-algorithms)
