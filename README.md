@@ -99,7 +99,7 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 
 
 - **Hard**
-- [Pascal's Triangle](#)
+- [Pascal's Triangle]
 - [Majority Element (n/3 times)]
 - [3-Sum Problem]
 - [4-Sum Problem]
