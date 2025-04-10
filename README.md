@@ -123,7 +123,7 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 
 
 
-**Unit-9:Binary Search[1D,2D,Arrays,Search,Space]
+**Unit-9:Binary Search[1D,2D,Arrays,Search,Space]**
 ****
 **Binary Search on 1D Arrays**
 -[Binary Search to find X in sorted array]
