@@ -60,7 +60,60 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 - [Recursive Insertion Sort](#recursive_insertion_sort)
 - [Quick Sort](#quick_sort)
 
-****
+**Unit-8: Arrays(Easy, Medium, Hard)**
+- **Easy**
+- [Largest element in an array]
+- [Second Largest Element in an Array without sorting]
+- [Check if the array is sorted]
+- [Remove duplicates from Sorted array]
+- [Left Rotate an array by one place]
+- [Left rotate an array by D places]
+- [Move Zeros to end]
+- [Linear Search]
+- [Find the Union]
+- [Find missing number in an array]
+- [Maximum Consecutive Ones]
+- [Find the number that appears once, and other numbers twice.]
+- [Longest subarray with given sum K(positives)]
+- [Longest subarray with sum K (Positives + Negatives)]
+
+
+- **Medium**
+
+- [2Sum Problem]
+- [Sort an array of 0's 1's and 2's]
+- [Majority Element (>n/2 times)]
+- [Kadane's Algorithm, maximum subarray sum]
+- [Print subarray with maximum subarray sum (extended version of above problem)]
+- [Stock Buy and Sell]
+- [Rearrange the array in alternating positive and negative items]
+- [Next Permutation]
+- [Leaders in an Array problem]
+- [Longest Consecutive Sequence in an Array]
+- [Set Matrix Zeros]
+- [Rotate Matrix by 90 degrees]
+- [Print the matrix in spiral manner]
+- [Count subarrays with given sum]
+
+
+
+
+- **Hard**
+- [Pascal's Triangle](#)
+- [Majority Element (n/3 times)]
+- [3-Sum Problem]
+- [4-Sum Problem]
+- [Largest Subarray with 0 Sum]
+- [Count number of subarrays with given xor K]
+- [Merge Overlapping Subintervals]
+- [Merge two sorted arrays without extra space]
+- [Find the repeating and missing number]
+- [Count Inversions]
+- [Reverse Pairs]
+- [Maximum Product Subarray](#https://leetcode.com/problems/maximum-product-subarray/)
+
+
+
 - [Arrays](#arrays)
 - [Sorting Algorithms](#sorting-algorithms)
 - [Linked Lists](#linked-lists)
