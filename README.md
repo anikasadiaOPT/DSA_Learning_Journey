@@ -167,6 +167,30 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 - [Matrix Median]
 
 
+**Strings[Basic & Medium]**
+****
+**Basic & Easy**
+- [Remove outermost Paranthesis]
+- [Reverse words in a given string / Palindrome Check]
+- [Largest odd number in a string]
+- [Longest Common Prefix]
+- [Isomorphic String]
+- [check whether one string is a rotation of another]
+- [Check if two strings are anagrams of each other]
+
+**Medium**
+- [Sort Characters by frequency]
+- [Maximum Nesting Depth of Paranthesis]
+- [Roman Number to Integer and vice versa]
+- [Implement Atoi]
+- [Count Number of Substrings]
+- [Longest Palindromic Substring[Do it without DP]
+- [Sum of Beauty of all substrings]
+- [Reverse Every Word in A String]
+
+
+  
+
 - [Arrays](#arrays)
 - [Sorting Algorithms](#sorting-algorithms)
 - [Linked Lists](#linked-lists)
