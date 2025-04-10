@@ -61,7 +61,7 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 - [Quick Sort](#quick_sort)
 
 **Unit-8: Arrays(Easy, Medium, Hard)**
-- **Easy**
+**Easy**
 - [Largest element in an array]
 - [Second Largest Element in an Array without sorting]
 - [Check if the array is sorted]
@@ -78,7 +78,7 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 - [Longest subarray with sum K (Positives + Negatives)]
 
 
-- **Medium**
+**Medium**
 
 - [2Sum Problem]
 - [Sort an array of 0's 1's and 2's]
@@ -98,7 +98,7 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 
 
 
-- **Hard**
+**Hard**
 - [Pascal's Triangle]
 - [Majority Element (n/3 times)]
 - [3-Sum Problem]
