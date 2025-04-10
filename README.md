@@ -61,6 +61,8 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 - [Quick Sort](#quick_sort)
 
 **Unit-8: Arrays(Easy, Medium, Hard)**
+
+****
 **Easy**
 - [Largest element in an array]
 - [Second Largest Element in an Array without sorting]
