@@ -4,6 +4,7 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 
 ## 📚 Topics Covered
 **Unit-1:Basics**
+****
 - [User Input/Output](#user_i/p_or_o/p)
 - [Data Types](#data_types)
 - [If else Statement](#if_else_statement)
@@ -16,14 +17,17 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 
   
 **Unit-2:Logical Thinking**
+****
 - [Pattern](#pattern)
 
 
 **Unit-3:STL**
+****
 - [C++ STL](#C++_stl)
 
 
 **Unit-4:Basic Maths**
+****
 - [Count Digits](#count_digits)
 - [Reverse a Number](#reverse_number)
 - [Check Palindrome](#check_palindrome)
@@ -34,6 +38,7 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 
 
 **Unit-5:Basic Recursion**
+****
 - [Print something N times](#printing_N_times)
 - [Print name N times](#printing_name_N_times)
 - [Print 1 to N](#print_1_o_N)
@@ -46,12 +51,14 @@ Welcome to my **C++ Learning Journey** repository! This repository is a collecti
 
 
 **Unit-6: Hashing**
+****
 - [Hashing](#hashing)
 - [Counting frequencies of array elements](#counting_frequencies)
 - [Find the highest/lowest frequency elements](#highest/lowest)
 
 
 **Unit-7: Sorting**
+****
 - [Selection Sort](#selection_sort)
 - [Insertion Sort](#insertion_sort)
 - [Bubble Sort](#bubble_sort)
